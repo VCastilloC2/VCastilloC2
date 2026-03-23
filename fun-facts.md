@@ -4,11 +4,7 @@
   <a href="./README.md">← Back to Main</a>
 </div>
 
-<br>
-
-<details open>
-  <summary>📝&nbsp;✨&nbsp; <strong>Get to Know Me!</strong> 🔍&nbsp; 📚&nbsp; </summary>
-
+<br> 📝&nbsp;✨&nbsp; <strong>Get to Know Me!</strong> 🔍&nbsp; 📚&nbsp; 
 <p align="center">
   <img src="https://github.com/VCastilloC2/VCastilloC2/assets/128097417/c6b5ec7e-1022-4266-9e4f-b47569b4ad67" width="300">
 </p>
@@ -70,8 +66,6 @@
 </p>
 
 **Fun Fact:** There are over 2.2 billion gamers worldwide, spanning various platforms and genres.
-
-</details>
 
 ---
 
