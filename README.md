@@ -1,7 +1,7 @@
 <img src="/Assets/Img/Profile LinkedIn Banner.png" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
 
 <div align="center">
-<h1 align="center"> 👨🏻‍💻  Hi there! <a href="https://www.linkedin.com/in/vcastilloc/"> My name is: Víctor José Castillo Castro </a> 👋</h1>
+<h1 align="center"> 👨🏻‍💻  Hi there! <a href="https://www.linkedin.com/in/vcastilloc2/"> My name is: Víctor José Castillo Castro </a> 👋</h1>
 </div>
 
 <h3 align="center"> A passionate Software Development "<em>Backend</em>" from Cartagena (<em> Colombia </em>) </h3>
