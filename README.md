@@ -112,8 +112,35 @@ const Víctor Castillo C2 = {
 ## 🧰 Summary of Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,js,py,postgres,mysql,mongodb,redis,docker,git,github,angular,react,tailwind,html,css,postman,idea,vscode,azure,githubactions,cpp,bash" />
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" /></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a>
 </p>
+
+
 
 ---
 
