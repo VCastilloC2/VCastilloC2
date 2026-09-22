@@ -29,28 +29,6 @@ I'm always open to discussing backend software architecture, full-stack projects
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
-<br><br>
-
----
-
-### 🎨 Icon Links
-
-<p align="center">
-  <a href="https://linkedin.com/in/vcastilloc2/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vcastilloc2" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/VctorJosCast02" target="_blank" title="X / Twitter">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="48" />
-  </a>
-</p>
-
-<br>
-
 ---
 
 <br>
