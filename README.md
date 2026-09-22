@@ -1,58 +1,123 @@
-<img src="/Assets/Img/Profile LinkedIn Banner.png" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner">&nbsp;
-
 <div align="center">
-<h1 align="center"> 👨🏻‍💻  Hi there! <a href="https://www.linkedin.com/in/vcastilloc2/"> My name is: Víctor José Castillo Castro </a> 👋</h1>
+  <img src="/Assets/Img/Profile LinkedIn Banner.png" title="Profile LinkedIn Banner" alt="Profile LinkedIn Banner" width="100%" style="border-radius: 10px;">
+
+  <br><br>
+
+  <h1>👨🏻‍💻 Hi there! I'm <a href="https://www.linkedin.com/in/vcastilloc2/">Víctor José Castillo Castro</a> 👋</h1>
+  <h3>A passionate Software Developer specialized in <em>Backend</em> from Cartagena, Colombia 🇨🇴</h3>
+
+  <br>
+
+  > *"Every week I try new ideas on building scalable software and continuous learning."*
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=vcastilloc2&label=Profile%20Views&color=0e7516&style=flat-square" alt="vcastilloc2" />
+  </p>
 </div>
-
-<h3 align="center"> A passionate Software Development "<em>Backend</em>" from Cartagena (<em> Colombia </em>) </h3>
-
-<h1 align="center"></h1>
 
 ---
 
 ## 📋 Table of Contents
 
-| 👤 About Me | 💻 Tech Stack | 📊 GitHub Stats | 🔗 Connect | 📁 Projects | ⚡ Fun Facts | 🤝 Support Me |
-|:----------:|:-------------:|:--------------:|:---------:|:-----------:|:-----------:|:------------:|
-| [About Me](#about-me) | [Tech Stack](./tech-stack.md) | [GitHub Stats](./github-stats.md) | [Connect](./connect-with-me.md) | [Projects](./projects.md) | [Fun Facts](./fun-facts.md) | [Support Me](./support-me.md) |
+| 👤 About Me | 💻 Tech Stack | 🛠️ SaaS Stack | 📊 GitHub Stats | 🔗 Connect |
+|:----------:|:-------------:|:--------------:|:--------------:|:---------:|
+| [About Me](#-about-me) | [Tech Stack](#-tech-stack) | [SaaS Stack](#️-weekend-saas-stack) | [GitHub Stats](#-github-stats) | [Connect](#-connect-with-me) |
 
 ---
 
-<section align='left'>
-<details id="about-me">
-  <summary>📝&nbsp;✨&nbsp; <strong>About me!</strong> 🔍&nbsp; 📚&nbsp; </summary>
-  
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="max-width: 100%; height: auto; border-radius: 8px;" />
-  
-👨‍💻 I'm a highly competent systems technician with a passion for technology. My skills in handling various tools allow me to adapt quickly to new technologies and environments. 🛠️💪
+## 👤 About Me
 
-📜 Ethical principles and confidentiality are at the core of my work. I hold a certificate in Professional Ethics, ensuring the highest standards of conduct. 🔒
+```typescript
+const Víctor Castillo C2 = {
+  role: "Backend Software Developer",
+  location: "Cartagena, Colombia 🇨🇴",
+  passion: "Building robust APIs & learning modern Full-Stack technologies",
+  motto: "Solving complex problems with clean, scalable code."
+};
+```
 
-🔐 With my Introduction to Cybersecurity certificate, I'm equipped to protect systems and data, ensuring their integrity and availability. 🛡️
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="220px" style="max-width: 100%; height: auto; border-radius: 8px; margin-left: 15px;" />
 
-💼 The Google certificate in Protecting Your Business in Telecommuting reflects my awareness of security challenges in remote work and my ability to implement suitable measures. 🏠✉️
+👨‍💻 I'm a highly competent systems technician with a passion for technology and quick adaptation to new stacks.
 
-💬 Effective communication is key, enabling me to collaborate seamlessly with colleagues and clients. I'm a creative problem-solver, always finding innovative solutions. 🗣️💡
+📜 Ethical principles and confidentiality are at the core of my work, backed by a Professional Ethics certification.
 
-👾 I am very curious and that is why you start studying programming. 🛠️
+🔐 Certified in Cybersecurity fundamentals (Google Telecommuting Security), ensuring data protection and system integrity.
 
-🗒 I am currently very obsessed with Full Stack. 🛠️
-
-🤝 I thrive in teamwork and value collaboration. With dedication and a positive attitude, I achieve shared goals. 🚀
-
-</details>
-
-✨ In summary, my certifications and technical expertise make me a valuable and reliable professional. I'm committed to ethical practices, cybersecurity, and effective communication, driving success in the field of technology. 🌟
-
-Keep pushing boundaries and embracing new challenges! 🚀💪 Embrace the power of teamwork, and together, we can achieve greatness! 🤝✨ Remember, every problem has a solution - let's find it! 💡🔧
-
-<br>
+💬 Strong advocate for clean architecture, continuous improvement, and effective team collaboration.
 
 ---
-## 🌱 I'm Currently Learning...
 
-| 💻 Programming | 🌐 Front-End Development | 🔧 Back-End Development | 🗄️ Database Technologies | 🛠️ Software and Others |
-| :-----------: | :----------------------: | :---------------------: | :----------------------: | :---------------------: |
-| <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40" /></a> <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="40" /></a> <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="40" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" /></a> <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" /></a> <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" /></a> <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" height="40" /></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="40" /></a> | <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" height="40" /></a> <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></a> <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" /></a> <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" height="40" /></a> <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="40" /></a> | <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40" /></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></a> <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="40" /></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="40" /></a> | <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" /></a> <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" /></a> <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" height="40" /></a> <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="40" /></a> |
+## 💻 Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🔧 Backend & Architecture
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🗄️ Database & BaaS
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🌐 Frontend & UI
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠️ Developer Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🛠️ Weekend SaaS Stack
+
+<div align="center">
+
+### Rapid Prototyping
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Quick Backend Setup
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 🧰 Summary of Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,js,py,postgres,mysql,mongodb,redis,docker,git,github,angular,react,tailwind,html,css,postman,idea,vscode,azure,githubactions,cpp,bash" />
+</p>
+
+---
 
 <br>
+
+Keep pushing boundaries and embracing new challenges!
+</div>
