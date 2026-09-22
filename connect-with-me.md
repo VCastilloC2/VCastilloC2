@@ -1,29 +1,60 @@
 # 🔗 Connect with Me
 
 <div align="center">
-  <a href="./README.md">← Back to Main</a>
+  <a href="./README.md"><strong>← Back to Main Profile</strong></a>
 </div>
 
 <br>
 
-## 📲&nbsp;💻&nbsp;🔗&nbsp; Connect with me 🔗&nbsp;🌐&nbsp;🤝&nbsp;
+<div align="center">
+
+## 🌐 Let's Connect & Collaborate
+
+I'm always open to discussing backend software architecture, full-stack projects, open-source collaborations, or potential tech opportunities.
+
+<br>
+
+### 📬 Direct Channels
+
+<a href="https://linkedin.com/in/vcastilloc2/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/vcastilloc2" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://twitter.com/VctorJosCast02" target="_blank">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+</a>
+<a href="https://www.youtube.com/@VCastilloC2" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+<br><br>
+
+---
+
+### 🎨 Icon Links
 
 <p align="center">
-  <a href="https://twitter.com/VctorJosCast02" target="_blank" title="Twitter">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="50" style="margin: 0 30px;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/vcastilloc2/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" style="margin: 0 30px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@VCastilloC2" target="_blank" title="YouTube">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" height="50" style="margin: 0 30px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vcastilloc2" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/VctorJosCast02" target="_blank" title="X / Twitter">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="48" />
   </a>
 </p>
 
 <br>
 
-<div align="center">
-  <a href="./README.md">← Back to Main Profile</a>
+---
+
+<br>
+
+<a href="./README.md"><strong>← Return to Profile Overview</strong></a>
+
 </div>
